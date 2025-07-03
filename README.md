@@ -1,4 +1,4 @@
 # akash-demo
 This is my first Github Repository.
 <br>
-Author - Akash Singh
+Author - Akash(akash-demo)
